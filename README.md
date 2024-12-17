@@ -7,6 +7,7 @@ windows系统文件夹备注脚本
 --
 
 直接使用请前往 [发布页面](https://github.com/johnnywhite24/comments/releases/tag/1.0.1) 下载并查看教程。
+另[桌面版](https://github.com/johnnywhite24/comments-desktop)入口
 
 <br>
 
